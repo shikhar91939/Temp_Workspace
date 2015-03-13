@@ -36,3 +36,8 @@ rm -r OldDirectory
 You can also delete multiple directories at one time, like this:
 
 rm -r Directory1 Directory2 Directory3
+
+8.
+what happens when we accidently press Ctrl+S in nano editor...
+
+read the second answer (it has more upvotes than the accepted answer)
