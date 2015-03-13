@@ -1,0 +1,23 @@
+1. doubt
+
+in tutorial, in config.xml:
+
+<smashingmagazine_logproductupdate>
+
+                        <!-- The model to be instantiated -->
+                        <class>smashingmagazine_logproductupdate/observer</class>
+
+
+but in our redmi module...
+<observer_redmi>
+                        <type>singleton</type>
+                        <class>Overcart_Redmi_Model_Observer</class>
+
+Q1: why is there a slash in tutorial? is it for a folder path or something? 
+Q2:
+
+
+--------------------  1  finished ---------------------
+2.
+
+
