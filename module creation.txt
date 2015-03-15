@@ -14,10 +14,12 @@ but in our redmi module...
                         <class>Overcart_Redmi_Model_Observer</class>
 
 Q1: why is there a slash in tutorial? is it for a folder path or something? 
-Q2: what is the significance of the name of the observer ? (It is smashingmagazine_logproductupdate in tutorial and observer_redmi in redmi module)In the tutorial, it is mentioned that by convention, we name the "module name" in lower case. So, is it the module name ?
+Q2: what is the significance of the name of the observer ? (It is smashingmagazine_logproductupdate in tutorial and observer_redmi in redmi module)In the tutorial, it is mentioned that by convention, we name the "module name" in lower case.
 
 
 --------------------  1  finished ---------------------
-2.
+
+2. location of observer file is different in oredmi module...(explain and mention actual location)
+
 
 
